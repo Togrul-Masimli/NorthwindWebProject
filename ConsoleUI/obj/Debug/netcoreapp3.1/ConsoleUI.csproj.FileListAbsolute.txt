@@ -120,3 +120,7 @@ E:\NorthwindWebProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyCo
 E:\NorthwindWebProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 E:\NorthwindWebProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 E:\NorthwindWebProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+E:\NorthwindWebProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\NorthwindWebProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\NorthwindWebProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\NorthwindWebProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll

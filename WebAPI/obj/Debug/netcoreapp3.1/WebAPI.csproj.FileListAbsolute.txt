@@ -66,3 +66,8 @@ E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 E:\NorthwindWebProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
 E:\NorthwindWebProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
