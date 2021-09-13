@@ -72,3 +72,4 @@ E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProx
 E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 E:\NorthwindWebProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\NorthwindWebProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig

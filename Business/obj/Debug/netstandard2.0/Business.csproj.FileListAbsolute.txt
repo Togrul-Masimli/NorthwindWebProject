@@ -28,3 +28,4 @@ E:\NorthwindWebProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCom
 E:\NorthwindWebProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 E:\NorthwindWebProject\Business\obj\Debug\netstandard2.0\Business.dll
 E:\NorthwindWebProject\Business\obj\Debug\netstandard2.0\Business.pdb
+E:\NorthwindWebProject\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig

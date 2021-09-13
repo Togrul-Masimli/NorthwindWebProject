@@ -19,3 +19,4 @@ E:\NorthwindWebProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCom
 E:\NorthwindWebProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 E:\NorthwindWebProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 E:\NorthwindWebProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+E:\NorthwindWebProject\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
